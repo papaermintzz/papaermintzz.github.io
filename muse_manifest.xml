@@ -1,0 +1,244 @@
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="phattharaporn-kue.com" resolutions="1x,2x" timestamp="1512978815799">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="4118824259" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="phattharaporn_kueaduang_resume.pdf" crc="4082330738" seo="true" mt="1512914901000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="17924269" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="144853533" ref="index"/>
+    <file name="webpro.js" crc="416662029" ref="index"/>
+    <file name="musewpslideshow.js" crc="4034900702" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="528673841" ref="index"/>
+    <file name="touchswipe.js" crc="432264157" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3854337258" ref="index"/>
+    <file name="form_check.php" crc="4110044762" ref="index"/>
+    <file name="form_throttle.php" crc="22190333" ref="index"/>
+    <file name="form_process.php" crc="257545537" ref="index"/>
+    <file name="form-u973.php" crc="4010629914" ref="index"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="232371266" ref="index"/>
+    <file name="require.js" crc="3861931657" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="g1.png" crc="452846008" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="g1_2x.png" crc="4177304357" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="download.png" crc="169605652" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="download_2x.png" crc="487979244" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="front.png" crc="4281815166" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="front_2x.png" crc="3774320672" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="back2.png" crc="401499663" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="back2_2x.png" crc="443285020" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="au.png" crc="117072228" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="au_2x.png" crc="4093316604" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="id.png" crc="320510002" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="id_2x.png" crc="3871543036" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mu.png" crc="431968586" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mu_2x.png" crc="3857613429" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ps.png" crc="129644413" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ps_2x.png" crc="422837568" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ae.png" crc="4010095842" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ae_2x.png" crc="135016484" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ai.png" crc="3991903803" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ai_2x.png" crc="3905328462" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="skill-crop-u5819.png" crc="337461059" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="skill-crop-u5819_2x.png" crc="3971461904" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="room-crop-u6038.png" crc="184297716" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="room-crop-u6038_2x.png" crc="4121079634" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="on.png" crc="371783437" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="on_2x.png" crc="336930750" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="11.png" crc="90344033" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="11_2x.png" crc="120491796" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5-01-crop-u5096.png" crc="401570356" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5-01-crop-u5096_2x.png" crc="4255099802" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="14-01.png" crc="518612619" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="14-01_2x.png" crc="121306548" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="freesamplefile-crop-u4807.jpg" crc="419892480" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="freesamplefile-crop-u4807_2x.jpg" crc="39135006" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="w1-01-crop-u5184.jpg" crc="190240002" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="w1-01-crop-u5184_2x.jpg" crc="372121729" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="18-01-crop-u4894.jpg" crc="4098308897" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="18-01-crop-u4894_2x.jpg" crc="4176945147" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="7-01.png" crc="3848019814" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="7-01_2x.png" crc="480008586" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="16-01-crop-u5534.jpg" crc="86264046" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="16-01-crop-u5534_2x.jpg" crc="532869476" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1-01-crop-u9280.png" crc="384053036" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1-01-crop-u9280_2x.png" crc="103901743" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bg1-01-u953.png" crc="93737689" ref="index"/>
+    <file name="bg1-01-u953_2x.png" crc="111823399" ref="index"/>
+    <file name="car.png" crc="175803799" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="car_2x.png" crc="4162497511" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="trees.png" crc="4282264416" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="trees_2x.png" crc="13190648" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="girledu.png" crc="396615586" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="girledu_2x.png" crc="510742877" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ex.png" crc="201842401" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ex_2x.png" crc="4241108131" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5-01200x170.png" crc="4290478176" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5-01200x170_2x.png" crc="3993191869" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="w1-01-crop-u5177.jpg" crc="3728009" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="w1-01-crop-u5177_2x.jpg" crc="4033841192" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="16-01-crop-u5526.jpg" crc="4285708272" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="16-01-crop-u5526_2x.jpg" crc="3889758103" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="7-01-crop-u4993.png" crc="332419603" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="7-01-crop-u4993_2x.png" crc="407266721" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1-01-u9326-fr.png" crc="4029721169" ref="index"/>
+    <file name="1-01-u9326-fr_2x.png" crc="263964090" ref="index"/>
+    <file name="18-01-crop-u4887.jpg" crc="187736888" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="18-01-crop-u4887_2x.jpg" crc="3959675024" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="freesamplefile-crop-u4811.jpg" crc="4250040436" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="freesamplefile-crop-u4811_2x.jpg" crc="4246428566" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2560-12-09 at 112224 pm.jpg" crc="195870854" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2560-12-09 at 112224 pm_2x.jpg" crc="237104327" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tree2.png" crc="10043455" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tree2_2x.png" crc="379391343" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="menu2.png" crc="4133665898" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="menu2_2x.png" crc="3773522496" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="10258831" seo="true" mt="1512978463115" redirect="true"/>
+</manifest>
